@@ -1,16 +1,24 @@
-### Hi there 👋
+### Hello, Nikhil Chauhan is here 👋👋
+<hr>
 
-<!--
-**Nikhil746/Nikhil746** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 🔭 I’m currently working on My Skillsets to gain more Knowledge
+- 🌱 I’m currently learning new Frameworks,languages,databases which help in my <strong>Proffesional Growth</stronng>
+- 📫 How to reach me: https://www.linkedin.com/in/nikhil-chauhan-419987179
 
-Here are some ideas to get you started:
+<hr>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Nikhil746&show_icons=true&theme=radical)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Nikhil746&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
+<hr>
+
+>Always Learn New Things To Make Better Yourself
+
+<br>
+
+```java
+while(!success=try())
+```
